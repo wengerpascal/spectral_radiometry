@@ -1,0 +1,28 @@
+# V0.6.0.18-05 (30-Jan-2018)
+#    new: added blue_hazzard.txt
+#         blue_hazzard
+
+# V0.5.0.18-01 (05-Jan-2018)
+#    new:    wavelength_analysis
+#    remove: wavelength_analysis_peak
+#            wavelength_analysis_fwhm
+#    fixed:  bugs in wavelength_analysis_fwhm
+#
+# V0.4.0.18-01 (04-Jan-2018)
+#    new: wavelength_analysis_fwhm
+#    new: wavelength_analysis_peak
+#
+# Version: V0.3.0.18-01 (04-Jan-2018):
+#    new: name structure
+#    update: docstrings
+#
+# Version: V0.2.0 (31-Oct-2017):
+#    new: wavelength_analysis
+#
+#Version: V0.1 (25-Sept-2017): 
+#    new: included file visual_responsivity.txt
+#    new: read V_photometric and V-scotopic 
+#         from the file visual_responsivity.txt
+#    new: radiometric flux
+#    new: photometric flux:
+
